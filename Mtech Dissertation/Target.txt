@@ -1,0 +1,19 @@
+1) Age Group based on Accuracy different for all models 
+2) Use same size of Train-Test Split for Patient and Merged Dataset
+3) Get Average of all dataset
+4) print Input+output for user input test in table
+
+
+Save Values and Repected IDs of  Dataset globally
+1) Setup Main Function
+    - MergeDataset()
+    - CleanDataset_All()
+    - CleanDataset_Patient()
+    - Preprocess_Dataframes()
+    - TrainModel()
+    - TestModel()
+    - PrintResult() - Only Tables
+    - PrintGraphs() - 
+        -- BarGraph()
+        -- PointGraph()
+

@@ -1,0 +1,1 @@
+Random Forest Classifier,Train:80.0% & Test:20.0%,95,94,95,94,0*K-Nearest Neighbour Classifier,Train:70.0% & Test:30.0%,93,92,92,92,0*Support Vector Machine,Train:50.0% & Test:50.0%,84,81,80,83,0*Naive Bayes Classifier,Train:80.0% & Test:20.0%,82,79,79,79,60*Neural Networks,Train:65.0% & Test:35.0%,71,41,35,50,60*Logistic Regression,Train:55.0% & Test:45.0%,82,77,79,77,70*
